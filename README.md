@@ -1,27 +1,22 @@
-<h2>👋 Hi, I’m <a href="https://antoinecerdan.github.io/">Antoine !</a></h2> 
-
-![Awesome Badges](https://img.shields.io/badge/antoine-cerdan-yellow)
-![Awesome Badges](https://img.shields.io/badge/status-student-blueviolet)
-[![US/Pacific timezone](https://img.shields.io/badge/timezone-FRA%2FCET-critical)](https://www.timeanddate.com/worldclock/france/toulouse)
-![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)
-
-
-
-
----
-
-🚶‍♂️ On my way to learn lots of things !
-
-[site.off](https://site.off)
-
-<details>
+<samp>
+    <h3>👋 hi, i'm <a href="https://eosis.space">eosis</a>.</h3>
+    19 year old web dev, figma enjoyer, learning lots of things for the past 3 years and I don't plan on stopping. In my first year of CS studies, at EPSI in             Toulouse, France.
+    <br />
+    Check my <a href="https://eosis.space">website</a> for more.
+    <br />
+  <hr></hr>
+    🌎 <a href="https://eosis.space" target="_blank">eosis.space</a>
+    <br/>
+    ✉️ <a href="mailto:eosis.space" target="_blank">hey@eosis.space</a>
+    <br/>
+    💬 <a href="https://discord.com/users/290482004435271680" target="_blank">eosis#7997</a>
+  <details>
   <summary>⚡ Code stats</summary>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=antoinecerdan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinecerdan&show_icons=true&count_private=true&theme=codeSTACKr)
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=antoinecerdan&langs_count=10&theme=codeSTACKr&layout=compact' width="37%" height="37%">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=eosiswastaken&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Eosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eosiswastaken&show_icons=true&count_private=true&theme=codeSTACKr)
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eosiswastaken&langs_count=10&theme=codeSTACKr&layout=compact' width="37%" height="37%">
   </details>
-  
----
+</samp>
 
 
