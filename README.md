@@ -10,6 +10,8 @@
     ✉️ <a href="mailto:eosis.space" target="_blank">hey@eosis.space</a>
     <br/>
     💬 <a href="https://discord.com/users/290482004435271680" target="_blank">eosis#7997</a>
+    <br/>
+    ☕ <a href="ko-fi.com/eosiswastaken"target="_blank">eosiswastaken</a>
   <details>
   <summary>⚡ Code stats</summary>
   
