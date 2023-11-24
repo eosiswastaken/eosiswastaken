@@ -1,6 +1,6 @@
 <samp>
     <h3>👋 hi, i'm <a href="https://eosis.space">eosis</a>.</h3>
-    19 year old web dev, figma enjoyer, learning lots of things for the past 3 years and I don't plan on stopping. In my first year of CS studies, at EPSI in             Toulouse, France.
+    19 year old web dev, figma enjoyer, learning lots of things for the past 3 years and I don't plan on stopping. In my second year of CS studies, at EPSI in             Toulouse, France.
     <br />
     Check my <a href="https://eosis.space">website</a> for more.
     <br />
