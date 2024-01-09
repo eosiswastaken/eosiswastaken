@@ -11,7 +11,7 @@
     <br/>
     💬 <a href="https://discord.com/users/290482004435271680" target="_blank">eosis</a>
     <br/>
-    ☕ <a href="ko-fi.com/eosiswastaken"target="_blank">eosiswastaken</a>
+    ☕ <a href="https://ko-fi.com/eosiswastaken"target="_blank">eosiswastaken</a>
   <details>
   <summary>⚡ Code stats</summary>
   
