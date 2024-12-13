@@ -7,7 +7,7 @@
   <hr></hr>
     🌎 <a href="https://eosis.space" target="_blank">eosis.space</a>
     <br/>
-    ✉️ <a href="mailto:eosis.space" target="_blank">hey@eosis.space</a>
+    ✉️ <a href="mailto:mars@eosis.space" target="_blank">mars@eosis.space</a>
     <br/>
     💬 <a href="https://discord.com/users/290482004435271680" target="_blank">eosis</a>
     <br/>
