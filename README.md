@@ -1,6 +1,6 @@
 <samp>
     <h3>👋 hi, i'm <a href="https://eosis.space">eosis</a>.</h3>
-    20 year old web dev, i love tinkering with code. In my third year of CS studies, at EPSI in             Toulouse, France. I'm also an intern at @MXTRAINER-FR.
+    21 year old web dev, i love tinkering with code. In my third year of CS studies, at EPSI in             Toulouse, France. I'm also an intern at @MXTRAINER-FR.
     <br />
     Check my <a href="https://eosis.space">website</a> for more.
     <br />
